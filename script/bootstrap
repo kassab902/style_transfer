@@ -1,5 +1,5 @@
 #!/bin/sh
-
+echo "AAA"
 set -e
 
 gem install bundler
